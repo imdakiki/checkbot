@@ -43,7 +43,7 @@ class PersistentViewBot(commands.Bot):
 
 bot = PersistentViewBot()
 
-statuses = ["Returned to Discord!", "Check Bot", ".help", "With friends", "Working on Employing workers", "I am public!", "I am free to use!", "Check me out at github.com/kikisdevelopment/checkbot!"]
+statuses = ["Returned to Discord!", "Check Bot", ".help", "With friends", "Working on Employing workers", "I am public!", "I am free to use!", "Check me out at github.com/imdakiki/checkbot"]
 status_index = 0
 
 @bot.event
